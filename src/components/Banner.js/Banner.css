@@ -1,0 +1,17 @@
+.height{
+    height: 800px;
+}
+.banner-title-design{
+    font-size: 85px;
+    margin-bottom: 200px;
+    background-color: rgba(0, 0, 0, 0.384) !important;
+}
+@media only screen and (max-width: 600px) {
+    .banner-title-design{
+      font-size: 45px;
+      margin-bottom: 15px;
+    }
+    .height{
+        height: 380px;
+    }
+  }

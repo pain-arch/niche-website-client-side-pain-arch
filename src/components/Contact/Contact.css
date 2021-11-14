@@ -1,0 +1,13 @@
+.title{
+    display: inline-block;
+    border-bottom: 5px solid #e6d219;
+}
+.left-side{
+    display: flex !important;
+}
+.left{
+    margin: 0 auto;
+}
+.headline-design{
+    font-size: 65px;
+}

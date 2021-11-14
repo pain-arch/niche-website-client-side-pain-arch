@@ -1,0 +1,17 @@
+.container-design{
+    background-color:#FCFAF2 ;
+}
+.details-design{
+    font-size: 60px;
+}
+.color{
+    color: #FFDE59;
+}
+.aboutus{
+    margin-top: 80px;
+}
+@media only screen and (max-width: 600px) {
+    .details-design{
+        font-size: 35px;
+    }
+  }
